@@ -17,8 +17,8 @@ package saml2
 import (
 	"bytes"
 	"encoding/base64"
-	"html/template"
 
+	template "github.com/DataDog/datadog-agent/pkg/template/html"
 	"github.com/beevik/etree"
 	"github.com/russellhaering/gosaml2/uuid"
 )

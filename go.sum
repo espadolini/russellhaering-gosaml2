@@ -1,3 +1,5 @@
+github.com/DataDog/datadog-agent/pkg/template v0.78.2 h1:r/RfXn7jzAa1Ta4omzAmkR7x/KmHvjLubU+Sj81hi6s=
+github.com/DataDog/datadog-agent/pkg/template v0.78.2/go.mod h1:ZUjICHSlN0of0cmWrYk9Pof0DV0eqHSpTUK1NTnN26Y=
 github.com/beevik/etree v1.6.0 h1:u8Kwy8pp9D9XeITj2Z0XtA5qqZEmtJtuXZRQi+j03eE=
 github.com/beevik/etree v1.6.0/go.mod h1:bh4zJxiIr62SOf9pRzN7UUYaEDa9HEKafK25+sLc0Gc=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=

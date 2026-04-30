@@ -19,10 +19,10 @@ import (
 	"compress/flate"
 	"encoding/base64"
 	"fmt"
-	"html/template"
 	"net/http"
 	"net/url"
 
+	template "github.com/DataDog/datadog-agent/pkg/template/html"
 	"github.com/beevik/etree"
 	"github.com/russellhaering/gosaml2/uuid"
 )

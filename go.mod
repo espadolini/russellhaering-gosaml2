@@ -5,6 +5,7 @@ go 1.25.0
 toolchain go1.26.1
 
 require (
+	github.com/DataDog/datadog-agent/pkg/template v0.78.2
 	github.com/beevik/etree v1.6.0
 	github.com/jonboulle/clockwork v0.5.0
 	github.com/mattermost/xml-roundtrip-validator v0.1.0
